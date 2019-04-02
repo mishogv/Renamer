@@ -1,2 +1,2 @@
 # Renamer
-Renamer project
+Renamer project .NET Core console applicaction.
